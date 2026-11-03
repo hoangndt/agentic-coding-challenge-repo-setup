@@ -1,1 +1,4 @@
 .ai
+node_modules
+dist
+data
